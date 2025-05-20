@@ -55,4 +55,3 @@ I am a software engineering student at Polytechnique Montréal, passionate about
 <a href="https://www.linkedin.com/in/bryan-alexandre-t-04738a1a0/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/linkedin/linkedin-original.svg" width="50px" style="padding-right:10px">
 </a>
-
