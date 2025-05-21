@@ -18,6 +18,7 @@ I am a software engineering student at Polytechnique Montréal, passionate about
     <img src="https://devicon-website.vercel.app/api/cplusplus/original.svg" width="50px" style="padding-right:10px"></img>
     <img src="https://devicon-website.vercel.app/api/html5/original-wordmark.svg" width="50px" style="padding-right:10px"></img>
     <img src="https://devicon-website.vercel.app/api/css3/original-wordmark.svg" width="50px" style="padding-right:10px"></img>
+    <img src="https://devicon-website.vercel.app/api/sass/original.svg" width="50px" style="padding-right:10px"></img>
     <br></br>
 </div>
 
