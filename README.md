@@ -57,5 +57,5 @@ I am a software engineering student at Polytechnique Montréal, passionate about
     <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/linkedin/linkedin-original.svg" width="50px" style="padding-right:10px">
 </a>
 <a href="mailto:bryanalexandre03@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50px" style="padding-right:10px/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="50px" style="padding-right:10px"/>
 </a>
