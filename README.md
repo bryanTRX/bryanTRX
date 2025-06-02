@@ -41,7 +41,6 @@ I am a software engineering student at Polytechnique Montréal, passionate about
 </div>
 
 <p><strong>Development Tools: </strong></p>
-
 <div> 
     <img src="https://devicon-website.vercel.app/api/github/original-wordmark.svg?color=%23FFFFFF" width="50px" style="padding-right:10px"></img>
     <img src="https://devicon-website.vercel.app/api/git/plain-wordmark.svg" width="50px" style="padding-right:10px"></img>
