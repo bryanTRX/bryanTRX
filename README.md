@@ -37,6 +37,9 @@ I am a software engineering student at Polytechnique Montréal, passionate about
     <img src="https://devicon-website.vercel.app/api/jasmine/plain-wordmark.svg" width="50px" style="padding-right:10px"></img>
     <img src="https://devicon-website.vercel.app/api/karma/original.svg" width="50px" style="padding-right:10px"></img>
     <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50px" style="padding-right:10px">
+    <img src="https://devicon-website.vercel.app/api/flutter/original.svg" width="50px" style="padding-right:10px"></img>
+    <img src="https://devicon-website.vercel.app/api/docker/plain-wordmark.svg" width="50px" style="padding-right:10px"></img>
+    <img src="https://devicon-website.vercel.app/api/kubernetes/plain-wordmark.svg" width="50px" style="padding-right:10px"></img>
     <br></br>
 </div>
 
@@ -48,6 +51,9 @@ I am a software engineering student at Polytechnique Montréal, passionate about
     <img src="https://devicon-website.vercel.app/api/visualstudio/plain-wordmark.svg" width="50px" style="padding-right:10px"></img>
     <img src="https://devicon-website.vercel.app/api/vscode/original-wordmark.svg" width="50px" style="padding-right:10px"></img>
     <img src="https://devicon-website.vercel.app/api/intellij/original-wordmark.svg" width="50px" style="padding-right:10px"></img>
+    <img src="https://devicon-website.vercel.app/api/jira/original.svg" width="50px" style="padding-right:10px"></img>
+    <img src="https://devicon-website.vercel.app/api/confluence/original.svg" width="50px" style="padding-right:10px"></img>
+    <img src="https://devicon-website.vercel.app/api/jenkins/original.svg" width="50px" style="padding-right:10px"></img>
     <br></br>
 </div>
 
