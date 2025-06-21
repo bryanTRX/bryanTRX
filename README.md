@@ -65,3 +65,8 @@ I am a software engineering student at Polytechnique Montréal, passionate about
 <a href="mailto:bryanalexandre03@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="50px" style="padding-right:10px">
 </a>
+
+
+
+
+
