@@ -40,6 +40,10 @@ I am a software engineering student at Polytechnique Montréal, passionate about
     <img src="https://devicon-website.vercel.app/api/flutter/original.svg" width="50px" style="padding-right:10px"></img>
     <img src="https://devicon-website.vercel.app/api/docker/plain-wordmark.svg" width="50px" style="padding-right:10px"></img>
     <img src="https://devicon-website.vercel.app/api/kubernetes/plain-wordmark.svg" width="50px" style="padding-right:10px"></img>
+    <img src="https://devicon-website.vercel.app/api/pytorch/original.svg" width="50px" style="padding-right:10px"></img>
+    <img src="https://devicon-website.vercel.app/api/tensorflow/original.svg" width="50px" style="padding-right:10px"></img>
+    <img src="https://devicon-website.vercel.app/api/numpy/original.svg" width="50px" style="padding-right:10px"></img>
+    <img src="https://devicon-website.vercel.app/api/pandas/original.svg" width="50px" style="padding-right:10px"></img>
     <br></br>
 </div>
 
@@ -62,6 +66,8 @@ I am a software engineering student at Polytechnique Montréal, passionate about
 <a href="https://www.linkedin.com/in/bryan-alexandre-t-04738a1a0/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/linkedin/linkedin-original.svg" width="50px" style="padding-right:10px">
 </a>
+<br></br>
 <a href="mailto:bryanalexandre03@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="50px" style="padding-right:10px">
 </a>
+<br></br>
