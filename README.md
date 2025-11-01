@@ -36,7 +36,7 @@ I am a software engineering student at Polytechnique Montréal, passionate about
     <img src="https://devicon-website.vercel.app/api/mongodb/plain-wordmark.svg" width="50px" style="padding-right:10px"></img>
     <img src="https://devicon-website.vercel.app/api/jasmine/plain-wordmark.svg" width="50px" style="padding-right:10px"></img>
     <img src="https://devicon-website.vercel.app/api/karma/original.svg" width="50px" style="padding-right:10px"></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50px" style="padding-right:10px">
+    <img src="https://devicon-website.vercel.app/api/amazonwebservices/original.svg" width="50px" style="padding-right:10px">
     <img src="https://devicon-website.vercel.app/api/flutter/original.svg" width="50px" style="padding-right:10px"></img>
     <img src="https://devicon-website.vercel.app/api/docker/plain-wordmark.svg" width="50px" style="padding-right:10px"></img>
     <img src="https://devicon-website.vercel.app/api/kubernetes/plain-wordmark.svg" width="50px" style="padding-right:10px"></img>
