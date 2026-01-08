@@ -27,7 +27,6 @@ I am a software engineering student at Polytechnique Montréal, passionate about
     <img src="https://devicon-website.vercel.app/api/figma/original.svg" width="50px" style="padding-right:10px"></img>
     <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/angular/angular-original.svg" width="50px" style="padding-right:10px">
     <img src="https://devicon-website.vercel.app/api/react/original.svg" width="50px" style="padding-right:10px"></img>
-    <img src="https://devicon-website.vercel.app/api/vuejs/original.svg" width="50px" style="padding-right:10px"></img>
     <img src="https://devicon-website.vercel.app/api/nodejs/plain-wordmark.svg" width="50px" style="padding-right:10px"></img>
     <img src="https://devicon-website.vercel.app/api/nestjs/plain-wordmark.svg" width="50px" style="padding-right:10px"></img>
     <img src="https://devicon-website.vercel.app/api/express/original-wordmark.svg?color=%23FFFFFF" width="50px" style="padding-right:10px"></img>
@@ -43,7 +42,6 @@ I am a software engineering student at Polytechnique Montréal, passionate about
     <img src="https://devicon-website.vercel.app/api/pytorch/original.svg" width="50px" style="padding-right:10px"></img>
     <img src="https://devicon-website.vercel.app/api/tensorflow/original.svg" width="50px" style="padding-right:10px"></img>
     <img src="https://devicon-website.vercel.app/api/numpy/original.svg" width="50px" style="padding-right:10px"></img>
-    <img src="https://devicon-website.vercel.app/api/pandas/original.svg" width="50px" style="padding-right:10px"></img>
     <br></br>
 </div>
 
@@ -57,7 +55,6 @@ I am a software engineering student at Polytechnique Montréal, passionate about
     <img src="https://devicon-website.vercel.app/api/intellij/original-wordmark.svg" width="50px" style="padding-right:10px"></img>
     <img src="https://devicon-website.vercel.app/api/jira/original.svg" width="50px" style="padding-right:10px"></img>
     <img src="https://devicon-website.vercel.app/api/confluence/original.svg" width="50px" style="padding-right:10px"></img>
-    <img src="https://devicon-website.vercel.app/api/jenkins/original.svg" width="50px" style="padding-right:10px"></img>
     <br></br>
 </div>
 
