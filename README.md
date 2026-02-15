@@ -19,6 +19,7 @@ I am a software engineering student at Polytechnique Montréal, passionate about
     <img src="https://devicon-website.vercel.app/api/html5/original-wordmark.svg" width="50px" style="padding-right:10px"></img>
     <img src="https://devicon-website.vercel.app/api/css3/original-wordmark.svg" width="50px" style="padding-right:10px"></img>
     <img src="https://devicon-website.vercel.app/api/sass/original.svg" width="50px" style="padding-right:10px"></img>
+    <img src="https://devicon-website.vercel.app/api/julia/original.svg" width="50px" style="padding-right:10px"></img>
     <br></br>
 </div>
 
@@ -33,6 +34,7 @@ I am a software engineering student at Polytechnique Montréal, passionate about
     <img src="https://devicon-website.vercel.app/api/postgresql/plain-wordmark.svg" width="50px" style="padding-right:10px"></img>
     <img src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg" width="50px" style="padding-right:10px"></img>
     <img src="https://devicon-website.vercel.app/api/mongodb/plain-wordmark.svg" width="50px" style="padding-right:10px"></img>
+    <img src="https://devicon-website.vercel.app/api/flask/original-wordmark.svg?color=%23FFFFFF" width="50px" style="padding-right:10px"></img>
     <img src="https://devicon-website.vercel.app/api/jasmine/plain-wordmark.svg" width="50px" style="padding-right:10px"></img>
     <img src="https://devicon-website.vercel.app/api/karma/original.svg" width="50px" style="padding-right:10px"></img>
     <img src="https://devicon-website.vercel.app/api/azure/original-wordmark.svg" width="50px" style="padding-right:10px"></img>
@@ -42,6 +44,7 @@ I am a software engineering student at Polytechnique Montréal, passionate about
     <img src="https://devicon-website.vercel.app/api/pytorch/original.svg" width="50px" style="padding-right:10px"></img>
     <img src="https://devicon-website.vercel.app/api/tensorflow/original.svg" width="50px" style="padding-right:10px"></img>
     <img src="https://devicon-website.vercel.app/api/cmake/original.svg" width="50px" style="padding-right:10px"></img>
+    <img src="https://devicon-website.vercel.app/api/fastapi/original.svg" width="50px" style="padding-right:10px"></img>
     <br></br>
 </div>
 
